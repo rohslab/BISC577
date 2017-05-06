@@ -71,7 +71,7 @@ trainControl <- trainControl(method = "cv", number = 10, savePredictions = TRUE)
 #model.1 <- train (affinity~ ., data = df.1, trControl=trainControl, 
 #                method = "lm", preProcess=NULL)
 #model.2 <- train (affinity~ ., data = df.2, trControl=trainControl, 
-method = "lm", preProcess=NULL)
+#method = "lm", preProcess=NULL)
 #summary(model.2)
 
 # Prediction with L2-regularized
@@ -114,7 +114,7 @@ trainControl <- trainControl(method = "cv", number = 10, savePredictions = TRUE)
 #model.1 <- train (affinity~ ., data = df.1, trControl=trainControl, 
 #                method = "lm", preProcess=NULL)
 #model.2 <- train (affinity~ ., data = df.2, trControl=trainControl, 
-method = "lm", preProcess=NULL)
+#method = "lm", preProcess=NULL)
 #summary(model.2)
 
 # Prediction with L2-regularized
