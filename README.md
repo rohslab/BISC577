@@ -1,3 +1,3 @@
 # BISC577
-## Name: Tsu-Pei Chiu
-## ID: 5271333901
+## Name: Bo Sun
+## ID: 9535180609
